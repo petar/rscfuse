@@ -1,0 +1,8 @@
+
+This repo is an evolving FUSE client for Go, written (and not yet complete) by Russ Cox.
+
+This is my fork of Russ's code.The original is found here:
+
+   code.google.com/p/rsc/fuse
+
+My fork was made from revision (hg id) 26f510b7bd70+.
